@@ -24,4 +24,4 @@ The `context_search.ipynb` notebook is a draft work trying to provide an explana
 
 The `word2vec.ipynb` notebook generates a word and phrase embedding model.
 
-Run `app.py`, inside the folder `web_engine`, after finishing all precomputations to set up the draft web engine.
+After finishing all precomputations to set up the draft web engine, run `app.py`, inside the folder `web_engine`, to set up the testing server of the search engine.
